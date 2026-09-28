@@ -1,0 +1,22 @@
+button {
+    height: 30px;
+    width: 100px;
+    border: 1px dashed blue;
+    background-color: white;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    color: #062c5b;
+    cursor: pointer;
+}
+
+#Kind_1, #Kind_2, #Kind_3, #Kind_4 {
+    height: 40px;
+    width: 60px;
+    border: 1px solid black;
+}
+
+#Kind_1 {background-color: red;}
+
+#Kind_2 {background-color: blue;}
+
+#Kind_3 {background-color: green;}
